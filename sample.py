@@ -1,3 +1,3 @@
 s=input("Enter your name:-")
 i=0
-a= len(s)
+a= len(s) d
